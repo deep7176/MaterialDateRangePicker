@@ -34,7 +34,7 @@ public interface DatePickerController {
     com.borax12.materialdaterangepicker.date.MonthAdapter.CalendarDay getSelectedDay();
 
     boolean isThemeDark();
-    
+
     Calendar[] getHighlightedDays();
 
     Calendar[] getSelectableDays();
